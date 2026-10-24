@@ -1,0 +1,36 @@
+.sideNav{
+background-color: #404352;
+color:var(--theme-background-light);
+width:20%;
+display: flex;
+position: absolute;
+flex-direction: column;
+gap:15px;
+text-decoration: none;
+height: 100%;
+}
+
+.sideNav a {
+  display: block;
+  color: var(--theme-background-ultralight);
+  font-size: 24px;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.sideNav a:hover {
+  color: var(--theme-background-normal);
+}
+
+.sideNav a.active {
+  color: var(--theme-color-light);
+}
+
+
+
+.title{
+
+color:var(--theme-background-light);
+
+}

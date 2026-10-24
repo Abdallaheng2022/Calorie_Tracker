@@ -1,0 +1,29 @@
+*{
+ 
+    margin:0;
+    padding:0;
+
+}
+.records{
+background-color:rgb(255, 255, 255);
+height:100px;
+display: flex;
+gap:50px;
+justify-content: space-between;
+color:var(--theme-color-normal);
+list-style: none;
+margin: auto;
+width:50%;
+align-items: center;
+
+}
+
+
+
+.record-calories{
+
+color:blue;
+font-weight: bold;
+padding:15px;
+}
+

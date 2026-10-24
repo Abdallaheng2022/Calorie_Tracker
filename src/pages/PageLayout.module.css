@@ -1,0 +1,14 @@
+.layout{
+
+padding: 0px;
+margin: 0px;
+display: grid;
+grid-template-columns: 5fr;
+
+}
+
+.component-wrapper{
+
+margin: 20px auto;
+
+}

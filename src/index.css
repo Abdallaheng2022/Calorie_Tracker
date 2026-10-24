@@ -1,0 +1,11 @@
+:root{
+
+  --theme-background-ultralight: #d6f1fe;
+  --theme-background-normal: #a0d2eb;
+  --theme-background-light: #e5eaf5;
+  --theme-color-light: #d0bdf4;
+  --theme-color-normal: #8458b3;
+  --theme-color-dark: #494d5f;
+  --theme-border-raduis-smooth:10px;
+  --theme-width-record-list:63%;
+}

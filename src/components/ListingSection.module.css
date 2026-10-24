@@ -1,0 +1,29 @@
+.date-picker {
+
+    margin: 20px 340px;
+    width: 950px;
+    
+
+}
+.label-date-picker{
+
+font-size: 20px;
+margin-right: 20px;
+}
+
+.input-date-picker {
+
+    background-color: var(--theme-background-light);
+    color: var(--theme-color-normal);
+    margin-bottom: 10px;
+    align-self: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid var(--theme-color-normal);
+    font-size: 16px;
+    width: 30%;
+
+
+
+}
+

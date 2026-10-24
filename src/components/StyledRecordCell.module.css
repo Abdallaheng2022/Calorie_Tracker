@@ -1,0 +1,11 @@
+.record-styled-cell{
+
+background-color: white;
+border: 1px solid var(--theme-color-normal);
+align-items: center;
+display:flex;
+flex-direction: column;
+border-radius: 20px;
+padding:10px;
+gap:5px;
+}
