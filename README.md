@@ -10,20 +10,11 @@
 ![Oxlint](https://img.shields.io/badge/Oxlint-1-32F3E9)
 
 ## 🎬 Demo
-
-![Calorie Tracker demo: home page, the Track page, adding meals through the validated form, and the daily total](docs/demo.gif)
-
 ▶️ **Full walkthrough with voice-over (Egyptian Arabic, 2 min 34 s).** Press play below to watch it with sound:
 
-<!--
-  HOW TO SHOW THE FULL VIDEO WITH SOUND (one time, about 1 minute):
-  1. Open this README on GitHub and click the ✏️ (Edit) button.
-  2. Drag the file "Calorie_Tracker_Demo_EG.mp4" from your computer and drop it on the line below this comment.
-  3. GitHub uploads it and inserts a link like https://github.com/user-attachments/assets/xxxxxxxx
-     Keep that link alone on its own line: GitHub turns it into a video player right inside the README.
-  4. Click "Commit changes".
-  (A video file committed inside the repository will NOT play in the README; it must be uploaded this way.)
--->
+https://github.com/user-attachments/assets/546a619c-d2a4-4be9-83db-f5e8f93d26d3
+
+
 
 
 ---
